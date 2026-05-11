@@ -1,1 +1,2 @@
-エンドーミサキ a.k.a Wahrheitの、詩文や小説（らしきもの）など、文学的要素のある文章の置き場。ファイル名＝year-month-day_title(英訳適当)
+このrepoはエンドーミサキによる詩・掌編など文学的作品の保管庫です。
+PDF選集：https://pascaline.booth.pm/
