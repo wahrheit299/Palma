@@ -1,4 +1,4 @@
-Endorphin
+<h1>Endorphin</h1>
 
 
 青と白とが流れをなしている。
