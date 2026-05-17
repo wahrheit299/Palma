@@ -7,7 +7,6 @@
 <hr>
 
 ここはエンドーミサキによる詩・掌編など文学的作品の保管庫です。
-PDF選集：https://pascaline.booth.pm/
 
 - [祈り](26-02-14pray.html)
 - [モルダウ](26-03-08moldau.html)
@@ -38,3 +37,4 @@ PDF選集：https://pascaline.booth.pm/
 - [地平](26-05-15horizont.html)
 - [エバネッセント](26-05-17evanescent.html)
 - [書痴](26-05-17shochi.html)
+- [黄の衣](26-05-17kinokoromo.html)
