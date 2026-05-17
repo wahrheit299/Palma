@@ -37,3 +37,4 @@ PDF選集：https://pascaline.booth.pm/
 - [合成ミルク](26-05-10synthetic_milk.html)
 - [地平](26-05-15horizont.html)
 - [エバネッセント](26-05-17evanescent.html)
+- [書痴](26-05-17shochi.html)
