@@ -39,3 +39,4 @@
 - [書痴](26-05-17shochi.html)
 - [黄の衣](26-05-17kinokoromo.html)
 - [Room 502](26-05-21room502.html)
+- [緑の風](26-05-31wind_of_green.html)
