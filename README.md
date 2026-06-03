@@ -40,3 +40,4 @@
 - [黄の衣](26-05-17kinokoromo.html)
 - [Room 502](26-05-21room502.html)
 - [緑の風](26-05-31wind_of_green.html)
+- [近年のMについて](26-06-03m3.html)
