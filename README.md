@@ -45,3 +45,4 @@
 - [海底の研究者](26-06-17underwater_researchers.html)
 - [メカニック](26-07-27mechanic.html)
 - [アンリへ](26-07-31dear_henri.html)
+- [トレド](26-08-27toledo.html)
