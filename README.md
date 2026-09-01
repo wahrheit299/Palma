@@ -47,3 +47,4 @@
 - [アンリへ](26-07-31dear_henri.html)
 - [トレド](26-08-27toledo.html)
 - [トレド 2](26-08-27toledo2.html)
+- [トレド：アナザー](26-09-02toledo-another.html)
