@@ -49,3 +49,4 @@
 - [トレド 2](26-08-27toledo2.html)
 - [トレド：アナザー](26-09-02toledo-another.html)
 - [ヴェルヌの旅行](26-09-02verne.html)
+- [ラスティ](26-09-13rusty.html)
