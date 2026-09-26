@@ -49,3 +49,4 @@ Poesie by M.Endor（※README＝GitHub Pages用構成）
 - [トレド 2](26-08-27toledo2.html)
 - [ヴェルヌの旅行](26-09-02verne.html)
 - [ラスティ](26-09-13rusty.html)
+- [幻日](26-09-25genjitsu.html)
