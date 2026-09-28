@@ -6,7 +6,7 @@
 
 <hr>
 
-Poesie by M.Endor（※README＝GitHub Pages用構成）
+（※README＝GitHub Pages用構成）
 
 - [祈り](26-02-14pray.html)
 - [モルダウ](26-03-08moldau.html)
